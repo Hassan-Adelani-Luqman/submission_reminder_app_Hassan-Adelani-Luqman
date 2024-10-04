@@ -1,5 +1,8 @@
-John Doe
-Jane Smith
-Alice Johnson
-Bob Brown
-Charlie White
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
+Hassan, Shell Navigation, submitted
+Adelani, Shell Navigation, not submitted
+Ade, Shell Navigation, submitted
+Tolu, Shell Navigation, submitted
+Luqman, Shell Navigation, submitted
